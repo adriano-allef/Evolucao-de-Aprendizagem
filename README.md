@@ -66,17 +66,17 @@ Desafio técnico entregue com 06 dias de antecedência!
 
 
 <details>
-<summary>Módulo 2 Concluído dia **/08/2024</summary>
+<summary>Módulo 2 Concluído dia 06/08/2024</summary>
 
 # Data de Entrega dos Desafios
 
 Desafio de Carreira: --/08/2024
-Entregue: --/08/2024
-Desafio de carreira entregue com -- dias de antencedência!
+Entregue: 06/08/2024
+Desafio de carreira entregue com 0 dias de antencedência!
 
 Desafio Técnico: --/08/2024
-Entregue: --/08/2024
-Desafio técnico entregue com -- dias de antecedência!
+Entregue: 05/08/2024
+Desafio técnico entregue com 1 dias de antecedência!
 
 
 ## Conteúdos a serem trabalhados nesse módulo:
@@ -106,13 +106,23 @@ Desafio técnico entregue com -- dias de antecedência!
 -Quero Aprender o que são utilitários.  
 -Não faço ideia do que significa métodos de array.  
 -Aprimorar minha gestão de tempo.  
--Quero descobrar como criar um arquivo só com funções e chamar - las usando modulação de códigos.
+-Quero descobrir como criar um arquivo só com funções e chamar - las usando modulação de códigos.
 -Quero aprender a encontrar trabalho voluntário para colocar minhas habilidades em prática.
  
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
--Aprendi...
--Aprendi...
+Primeiramente, me dediquei a entender a relação entre tipos de dados e tipagem. Descobri que tipos de dados, como number, string, entre outros, são fundamentais para a tipagem em linguagens de programação. A tipagem refere-se à forma como uma linguagem de programação trata e verifica os tipos de dados, seja de forma estática ou dinâmica. Esse conhecimento me ajudou a escrever códigos mais robustos e menos propensos a erros.
+
+Em seguida, explorei o conceito de utilitários. Aprendi que utilitários são ferramentas ou funções que facilitam tarefas comuns no desenvolvimento de software. Eles podem variar desde bibliotecas de funções matemáticas até frameworks completos que agilizam o desenvolvimento de aplicações. Compreender a utilidade desses recursos me permitiu otimizar meu fluxo de trabalho e aumentar minha produtividade.
+
+Outro ponto importante foi entender os métodos de array. Antes, eu não fazia ideia do que significavam, mas agora sei que são funções integradas em linguagens de programação que permitem manipular arrays de diversas maneiras, como adicionar, remover, ordenar e filtrar elementos. Esse conhecimento ampliou minha capacidade de trabalhar eficientemente com estruturas de dados.
+
+Além disso, trabalhei para aprimorar minha gestão de tempo. Adotei técnicas como a Pomodoro e Metodologias Ágeis, a priorização de tarefas e o uso de ferramentas de organização, como o Trello. Essas práticas me ajudaram a ser mais produtivo e a equilibrar melhor minhas responsabilidades pessoais e profissionais.
+
+Outra meta foi descobrir como criar um arquivo apenas com funções e chamá-las usando modulação de códigos. Aprendi a modularizar meu código, separando funções em arquivos distintos e importando-as conforme necessário. Isso não só tornou meu código mais organizado, mas também facilitou a manutenção e a reutilização de componentes.
+
+
+Concluir essas metas foi um processo enriquecedor e estou animado para continuar aprendendo e crescendo em minha jornada.
 
 </details>
 
